@@ -14,6 +14,7 @@ const App = () => {
       <Mensaje color='red' message='Hola a todos'/>
       <Mensaje color='green' message='Curso de: '/>
       <Mensaje color='blue' message='React'/>
+      
      <br />
      
      
